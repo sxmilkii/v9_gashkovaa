@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.gashkova_v9" />
+                  <option name="mobileSdkAppId" value="1:970816144357:android:3bfd0ce9f87965ecd0650c" />
+                  <option name="projectId" value="v9-gashkova" />
+                  <option name="projectNumber" value="970816144357" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

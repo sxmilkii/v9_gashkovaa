@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970816144357",
+    "project_id": "v9-gashkova",
+    "storage_bucket": "v9-gashkova.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970816144357:android:3bfd0ce9f87965ecd0650c",
+        "android_client_info": {
+          "package_name": "com.example.gashkova_v9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvDyT8ZeYwK1hAFDFK1qj65p2TP4yDm5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
